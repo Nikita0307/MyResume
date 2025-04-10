@@ -37,7 +37,8 @@
 | **Умная теплица** | Проект по дисциплине Интернет вещей | Python, Flask, MongoDB, html, css, JavaScript | [GitHub](https://github.com/Nikita0307/Iot-smart-Greenhouse) |
 | **ChatBot** | чат бот на Python и Postgres для корпоративного мессенджера компании, который использовался как MVP для дальнейших доработок сотрудниками компании | Python, PostgresSql |  |
 | **Курсовой проект** | Разработка БД для автосервиса | Python, PostgreSql, Flask, psycopg2,JavaScript, html, css |  |
-| **Todo List** | ToDo List с бд | JavaScript, html, css, Webpack | https://github.com/Nikita0307/To-Do-List |
+| **Todo List** | ToDo List с бд | JavaScript, html, css, Webpack 
+| https://github.com/Nikita0307/To-Do-List |
 ---
 
 ## 🎓 Образование
