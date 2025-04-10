@@ -6,8 +6,8 @@
 
 ---
 ## Контакты
-- +7 (999) 513-30-59 
-- nik.eremenko0307@mail.ru
+- Телефон: +7 (999) 513-30-59 
+- Email: nik.eremenko0307@mail.ru
 - Telegram: https://t.me/T_h_e_Special_O_n_e
 
 ## 🛠️ Навыки
